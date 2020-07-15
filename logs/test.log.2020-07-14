@@ -1,0 +1,55 @@
+2020-07-13 03:21:18,064 D:\chuman-UIAuto-test\base\selenium_driver.py(line:48): INFO 元素没有找到 locator: tv_go_to_login and  locatorType: id
+2020-07-13 03:21:18,064 D:\chuman-UIAuto-test\base\selenium_driver.py(line:83): INFO Cannot click on the element with locator: tv_go_to_login locatorType: id
+2020-07-13 03:21:18,081 D:\chuman-UIAuto-test\base\selenium_driver.py(line:48): INFO 元素没有找到 locator: et_phone and  locatorType: id
+2020-07-13 03:21:18,081 D:\chuman-UIAuto-test\base\selenium_driver.py(line:99): INFO Cannot send data on the element with locator: et_phone locatorType: id
+2020-07-13 03:21:18,082 D:\chuman-UIAuto-test\base\selenium_driver.py(line:48): INFO 元素没有找到 locator: et_pwd and  locatorType: id
+2020-07-13 03:21:18,082 D:\chuman-UIAuto-test\base\selenium_driver.py(line:99): INFO Cannot send data on the element with locator: et_pwd locatorType: id
+2020-07-13 03:21:18,083 D:\chuman-UIAuto-test\base\selenium_driver.py(line:48): INFO 元素没有找到 locator: tv_login and  locatorType: id
+2020-07-13 03:21:18,084 D:\chuman-UIAuto-test\base\selenium_driver.py(line:83): INFO Cannot click on the element with locator: tv_login locatorType: id
+2020-07-13 15:21:07,668 D:\chuman-UIAuto-test\base\appium_driver.py(line:86): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 15:27:24,821 D:\chuman-UIAuto-test\base\appium_driver.py(line:86): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 15:39:27,121 D:\chuman-UIAuto-test\base\appium_driver.py(line:86): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 15:39:27,164 D:\chuman-UIAuto-test\base\appium_driver.py(line:104): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 15:39:27,168 D:\chuman-UIAuto-test\base\appium_driver.py(line:104): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 15:39:27,169 D:\chuman-UIAuto-test\base\appium_driver.py(line:86): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 15:41:57,684 D:\chuman-UIAuto-test\base\appium_driver.py(line:86): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 15:41:57,726 D:\chuman-UIAuto-test\base\appium_driver.py(line:104): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 15:41:57,729 D:\chuman-UIAuto-test\base\appium_driver.py(line:104): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 15:41:57,732 D:\chuman-UIAuto-test\base\appium_driver.py(line:86): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 15:43:05,246 D:\chuman-UIAuto-test\base\appium_driver.py(line:86): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 15:43:05,285 D:\chuman-UIAuto-test\base\appium_driver.py(line:104): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 15:43:05,287 D:\chuman-UIAuto-test\base\appium_driver.py(line:104): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 15:43:05,289 D:\chuman-UIAuto-test\base\appium_driver.py(line:86): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 15:50:02,448 D:\chuman-UIAuto-test\base\appium_driver.py(line:86): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 15:50:02,490 D:\chuman-UIAuto-test\base\appium_driver.py(line:104): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 15:50:02,493 D:\chuman-UIAuto-test\base\appium_driver.py(line:104): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 15:50:02,495 D:\chuman-UIAuto-test\base\appium_driver.py(line:86): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 15:50:02,497 D:\chuman-UIAuto-test\base\appium_driver.py(line:149): INFO Element not appeared on the web page
+2020-07-13 16:14:54,862 D:\chuman-UIAuto-test\base\appium_driver.py(line:109): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 16:14:54,904 D:\chuman-UIAuto-test\base\appium_driver.py(line:127): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 16:14:54,907 D:\chuman-UIAuto-test\base\appium_driver.py(line:127): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 16:14:54,909 D:\chuman-UIAuto-test\base\appium_driver.py(line:109): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 16:14:54,911 D:\chuman-UIAuto-test\base\appium_driver.py(line:172): INFO Element not appeared on the web page
+2020-07-13 16:18:52,168 D:\chuman-UIAuto-test\base\appium_driver.py(line:109): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 16:18:52,210 D:\chuman-UIAuto-test\base\appium_driver.py(line:127): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 16:18:52,211 D:\chuman-UIAuto-test\base\appium_driver.py(line:127): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 16:18:52,212 D:\chuman-UIAuto-test\base\appium_driver.py(line:109): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 16:18:52,213 D:\chuman-UIAuto-test\base\appium_driver.py(line:172): INFO Element not appeared on the web page
+2020-07-13 16:19:37,071 D:\chuman-UIAuto-test\base\appium_driver.py(line:109): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 16:19:37,075 D:\chuman-UIAuto-test\base\appium_driver.py(line:127): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 16:19:37,076 D:\chuman-UIAuto-test\base\appium_driver.py(line:127): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 16:19:37,077 D:\chuman-UIAuto-test\base\appium_driver.py(line:109): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 16:19:37,077 D:\chuman-UIAuto-test\base\appium_driver.py(line:172): INFO Element not appeared on the web page
+2020-07-13 16:37:23,304 D:\chuman-UIAuto-test\base\appium_driver.py(line:109): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 16:37:23,319 D:\chuman-UIAuto-test\base\appium_driver.py(line:127): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 16:37:23,321 D:\chuman-UIAuto-test\base\appium_driver.py(line:127): INFO Cannot send data on the element with locator:  locatorType: id
+2020-07-13 16:37:23,322 D:\chuman-UIAuto-test\base\appium_driver.py(line:109): INFO Cannot click on the element with locator:  locatorType: id
+2020-07-13 16:37:23,323 D:\chuman-UIAuto-test\base\appium_driver.py(line:172): INFO Element not appeared on the web page
+2020-07-14 08:05:10,314 D:\chuman-UIAuto-test\base\appium_driver.py(line:92): INFO Cannot click on the element with locator: com.mallestudio.gugu.app:id/tv_go_to_login locatorType: id
+2020-07-14 08:05:10,359 D:\chuman-UIAuto-test\base\appium_driver.py(line:110): INFO Cannot send data on the element with locator: com.mallestudio.gugu.app:id/et_phone locatorType: id
+2020-07-14 08:05:10,361 D:\chuman-UIAuto-test\base\appium_driver.py(line:110): INFO Cannot send data on the element with locator: com.mallestudio.gugu.app:id/et_pwd locatorType: id
+2020-07-14 08:05:10,363 D:\chuman-UIAuto-test\base\appium_driver.py(line:92): INFO Cannot click on the element with locator: com.mallestudio.gugu.app:id/tv_login locatorType: id
+2020-07-14 08:06:27,925 D:\chuman-UIAuto-test\base\appium_driver.py(line:92): INFO Cannot click on the element with locator: tv_go_to_login locatorType: id
+2020-07-14 08:06:27,968 D:\chuman-UIAuto-test\base\appium_driver.py(line:110): INFO Cannot send data on the element with locator: et_phone locatorType: id
+2020-07-14 08:06:27,971 D:\chuman-UIAuto-test\base\appium_driver.py(line:110): INFO Cannot send data on the element with locator: et_pwd locatorType: id
+2020-07-14 08:06:27,974 D:\chuman-UIAuto-test\base\appium_driver.py(line:92): INFO Cannot click on the element with locator: tv_login locatorType: id

@@ -1,8 +1,10 @@
 reports/*
 __pycache__/*
+__venv__/*
 *.pyc
 .python-version
 logs/*.log*
 .idea/*
 .pytest_cache
 .reports/*
+

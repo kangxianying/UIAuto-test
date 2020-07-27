@@ -1,40 +1,29 @@
-platformName: Android
-#雷电模拟器
-platformVersion: 5.1.1
-deviceName: emulator-5554
-
-
-
-appPackage: com.mallestudio.gugu.app
-appActivity: com.mallestudio.gugu.modules.StartActivity
-ip: 127.0.0.1
-port: 4723
-
-
-#demo:
-#    launch:
-#        "platformName": "Android"
-#        "platformVersion": "5.1.1"
-#        "deviceName": "emulator-5554"
-#        "appPackage": "com.mallestudio.gugu.app.debug"
-#        "appActivity": "com.mallestudio.gugu.modules.home.activity.HomeActivity"
-#        "noReset": true
-#        "newCommandTimeout": 1000
-#        "automationName": "uiautomator2"
-#    login:
-#          user: '139297789022'
-#          pwd: '123456'
+#platformName: Android
+##雷电模拟器
+#platformVersion: 5.1.1
+#deviceName: emulator-5554
 #
-#api:
-#    launch:
-#        "platformName": "Android"
-#        "platformVersion": "5.1.1"
-#        "deviceName": "emulator-5554"
-#        "appPackage": "com.mallestudio.gugu.app"
-#        "appActivity": "com.mallestudio.gugu.modules.StartActivity"
-#        "noReset": true
-#        "newCommandTimeout": 1000
-#        "automationName": "uiautomator2"
-#    login:
-#          user: '139297789022'
-#          pwd: '123456'
+#
+#
+#appPackage: com.mallestudio.gugu.app
+#appActivity: com.mallestudio.gugu.modules.StartActivity
+#ip: 127.0.0.1
+#port: 4723
+
+demo_android:
+
+api_android:
+    platformName: "Android"
+    platformVersion: "5.1.1"
+    deviceName: "emulator-5554"
+    appPackage: "com.mallestudio.gugu.app"
+    appActivity: "com.mallestudio.gugu.modules.StartActivity"
+    noReset: true
+    newCommandTimeout: 1000
+    automationName: "uiautomator2"
+    ip: 127.0.0.1
+    port: 4723
+    user: '139297789022'
+    pwd: '123456'
+
+

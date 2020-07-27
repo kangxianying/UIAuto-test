@@ -6,6 +6,7 @@ from selenium.common.exceptions import *
 from utils.log import CustomLogger
 import time
 import os
+import allure
 
 
 class AppiumDriver:
@@ -108,7 +109,48 @@ class AppiumDriver:
             return False
 
 
+    # def screenShot(self, funcname):
+    #     """
+    #     Takes screenshot of the current open web page
+    #     """
+    #     fileName = funcname + "." + str(round(time.time() * 1000)) + ".png"
+    #     screenshotDirectory = "../screenshots/"
+    #     relativeFileName = screenshotDirectory + fileName
+    #     currentDirectory = os.path.dirname(__file__)
+    #     destinationFile = os.path.join(currentDirectory, relativeFileName)
+    #     destinationDirectory = os.path.join(currentDirectory, screenshotDirectory)
+    #
+    #     try:
+    #         if not os.path.exists(destinationDirectory):
+    #             os.makedirs(destinationDirectory)
+    #         self.driver.save_screenshot(destinationFile)
+    #         with open(destinationFile, mode='rb') as f:
+    #             file = f.read()
+    #         allure.attach(file, '截图，文件目录：' + destinationFile, allure.attachment_type.PNG)
+    #         self.log.info("Screenshot save to directory: " + destinationFile)
+    #     except:
+    #         self.log.error("### Exception Occurred when taking screenshot")
 
+    def save_screenshot(self, func_name):
+        '''
+        保存截图
+        :return:
+        '''
+
+        sc_dir = "../screenshots/"
+        suffix = time.strftime('%m%d%H%M%S', time.localtime())
+        screenshot_name = func_name + suffix + '.png'
+
+        currentDirectory = os.path.dirname(__file__)
+        screenshotDir = os.path.join(sc_dir, screenshot_name)
+
+        save_file = os.path.join(currentDirectory, screenshotDir)
+
+
+        self.save_screenshot(save_file)
+        with open(save_file, mode='rb') as f:
+            file = f.read()
+        allure.attach(file, '截图，文件目录：' + save_file, allure.attachment_type.PNG)
 
 
 
